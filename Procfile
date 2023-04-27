@@ -1,0 +1,1 @@
+web gunicorn kitapsoresi.wsgi:application --log-file -
